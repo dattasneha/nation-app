@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nation</string>
+    <string name="Image_India">India</string>
+    <string name="Image_America">America</string>
+    <string name="Image_UK">United Kingdom</string>
+    <string name="Image_China">China</string>
+</resources>
